@@ -1,0 +1,332 @@
+@media all and (max-width:1400px) {
+    .mid-container {
+        max-width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+}
+@media all and (max-width:1210px) {
+    .headar-button {
+        text-align: right;
+    }
+    .headar-menu {
+        width: 50%;
+    }
+    .headar-button {
+        width: 20%;
+    }
+}
+@media all and (max-width:1048px){
+    .main-menu ul li a {
+        padding: 0px 10px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .main-menu ul li a {
+        padding: 0px 10px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .logo span {
+        font-size: 22px;
+    }
+    .headar-section {
+        padding: 8px 0;
+        position: unset;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 4;
+        box-sizing: border-box;
+    }
+    .title h1 {
+        font-size: 46px;
+        font-weight: 600;
+    }
+    .title p {
+        font-size: 20px;
+    }
+    .s-contant h3 {
+        font-size: 18px;
+    }
+    .s-contant p {
+        font-size: 15px;
+    }
+    .member-bio h4 {
+        font-size: 15px;
+    }
+    .member-bio p {
+        font-size: 15px;
+    }
+}
+
+
+.main-menu span{
+    display: none;
+}
+.member-last {
+    margin-right: 0;
+}
+.t-user-img {
+    width: 100%;
+    margin: auto;
+}
+@media all and (max-width:992px){
+    .headar-logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .logo img {
+        float: inherit;
+    }
+    .logo span {
+        position: relative;
+        top: -22px;
+    }
+    .main-menu ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .headar-button {
+        width: 100%;
+        position: absolute;
+        right: 14px;
+        top: 73px;
+        text-align: right;
+    }
+    .main-menu span {
+        font-size: 40px;
+        color: #6278df;
+        display: block;
+    }
+    .video-con-right h3 {
+        font-size: 34px;
+    }
+    .video-con-right p {
+        font-size: 18px;
+    }
+    .title h2 {
+        font-size: 44px;
+    }
+    .title p {
+        font-size: 17px;
+    }
+    .blog-post-item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .b-head {
+        width: 100%;
+        text-align: center;
+    }
+    .b-contan {
+        width: 100%;
+        text-align: center;
+    }
+    .b-head h2 {
+        font-size: 35px;
+    }
+    .b-contan p {
+        font-size: 16px;
+    }
+    .t-contant p {
+        font-size: 16px;
+    }
+    .p-head h4 {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .banner-section {
+        padding: 100px;
+    }
+    .banner-contant h2 {
+        font-size: 30px;
+    }
+    .banner-contant h3{
+        font-size: 16px;
+    }
+    .title h1 {
+        font-size: 18px;
+    }
+}
+@media all and (max-width:768px) {
+   
+    .member {
+        width: 48%;
+        margin-bottom: 20px;
+    }
+    .team-section .title h2 {
+        font-size: 25px;
+    }
+    .title.news-latter-title h2 {
+        font-size: 30px;
+    }
+    .contant-left-map {
+        width: 100%;
+    }
+    .contant-right-form {
+        width: 100%;
+        text-align: center;
+        margin-top: 17px;
+    }
+    .video-left {
+        width: 100%;
+    }
+    .video-con-right {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .service-box {
+        width: 48%;
+    }
+    .service-box:nth-child(3n+3){
+        margin-right: 14px;
+    }
+
+    .service-box:nth-child(2n+2){
+        margin-right: 0;
+    }
+    .defalt-input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .defalt-btn span a {
+        padding: 20px 0px;
+    }
+    .Batton-banner span a {
+        width: 100%;
+    }
+    .Batton-banner span a {
+        margin-bottom: 15px;
+    }
+    .video-con-right {
+        text-align: center;
+    }
+    .video-con-right p {
+        font-size: 13px;
+    }
+    .video-con-right h3 {
+        font-size: 20px;
+    }
+    .title p {
+        font-size: 12px;
+    }
+    .title h2 {
+        font-size: 25px;
+    }
+    .t-user-img img {
+        float: none;
+    }
+    .t-user-img {
+        text-align: center;
+    }
+    .t-items {
+        width: 100%;
+        /* margin-right: 2%; */
+        margin-top: 20px;
+    }
+}
+@media all and (max-width:640px){
+    .priceing-table-item {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .s-contant h3 {
+        font-size: 13px;
+    }
+    .s-contant p {
+        font-size: 12px;
+    }
+    .s-icon {
+        width: 34px;
+        height: 122px;
+        font-size: 28px;
+        margin-right: 8px;
+    }
+    .blog-post-item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .blog-post-contan {
+        margin-top: 26px;
+        text-align: center;
+        padding: 18px 0;
+    }
+    .b-head h2 {
+        font-size: 25px;
+    }
+    .b-contan p {
+        font-size: 14px;
+    }
+    .blog-post-item img {
+        width: 100%;
+    }
+}
+@media all and (max-width:505px){
+    .banner-contant h2 {
+        font-size: 20px;
+    }
+    .banner-contant h3 {
+        font-size: 13px;
+    }
+    .Batton-banner span a {
+        width: 69%;
+    }
+    .defalt-btn span a {
+        padding: 17px 0px;
+        font-size: 16px;
+    }
+    .team-section .title h2 {
+        font-size: 15px;
+    }
+    .title.news-latter-title h2 {
+        font-size: 20px;
+    }
+    .title.news-latter-title h2 {
+        font-size: 15px;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+}
+@media all and (max-width:460px){
+    .s-icon {
+        width: 26px;
+        height: 117px;
+        font-size: 20px;
+        margin-right: 8px;
+    }
+    .s-contant p {
+        font-size: 10px;
+        font-weight: 800;
+    }
+    .banner-contant h2 {
+        font-size: 16px;
+    }
+    .banner-contant h3 {
+        font-size: 10px;
+    }
+    .defalt-btn span a {
+        padding: 15px 0px;
+        font-size: 11px;
+    }
+    .mid-container {
+        padding-left: 10px;
+    }
+    .submit-btn {
+        font-size: 19px;
+        padding: 12px 52px;
+    }
+    .s-icon {
+        margin-right: 2px;
+    }
+    .s-contant h3 {
+        font-size: 10px;
+    }
+    .s-contant p {
+        font-size: 9px;
+    }
+}
